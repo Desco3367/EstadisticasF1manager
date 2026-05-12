@@ -1,0 +1,168 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 6,
+  "Date": null,
+  "TrackName": "Australia",
+  "TrackUniqueName": "albert.park.2021",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "George Russell"
+      },
+      "RaceNumber": 63,
+      "Position": 1,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77402,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Lando Norris"
+      },
+      "RaceNumber": 4,
+      "Position": 2,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77554,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 16,
+      "Position": 3,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77555,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Kimi Antonelli"
+      },
+      "RaceNumber": 12,
+      "Position": 4,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77750,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 5,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77841,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Kevin Magnussen"
+      },
+      "RaceNumber": 20,
+      "Position": 6,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 78069,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Yuki Tsunoda"
+      },
+      "RaceNumber": 22,
+      "Position": 7,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 78201,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Kimi Raikkonen"
+      },
+      "RaceNumber": 33,
+      "Position": 8,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 78780,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 9,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 78852,
+      "LapsCount": 6
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "George Russell"
+  },
+  "FastestLapTimeInt": 77402
+}
