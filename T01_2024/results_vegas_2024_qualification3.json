@@ -1,0 +1,168 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "Vegas",
+  "TrackUniqueName": "las.vegas.2023",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 16,
+      "Position": 1,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95744,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Lance Stroll"
+      },
+      "RaceNumber": 18,
+      "Position": 2,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95831,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 3,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95876,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "George Russell"
+      },
+      "RaceNumber": 63,
+      "Position": 4,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95899,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 1,
+      "Position": 5,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96073,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Lewis Hamilton"
+      },
+      "RaceNumber": 44,
+      "Position": 6,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96105,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Alexander Albon"
+      },
+      "RaceNumber": 23,
+      "Position": 7,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96291,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 8,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96359,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 9,
+      "Team": {
+        "Name": "Visa Cashapp RB",
+        "UniqueName": "visacashapprb.2024"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 97579,
+      "LapsCount": 5
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Charles Leclerc"
+  },
+  "FastestLapTimeInt": 95744
+}
