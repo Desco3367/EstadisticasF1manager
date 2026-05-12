@@ -1,0 +1,168 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "United States",
+  "TrackUniqueName": "austin.2012",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Fernando Alonso"
+      },
+      "RaceNumber": 14,
+      "Position": 1,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 93266,
+      "LapsCount": 3
+    },
+    {
+      "Driver": {
+        "Name": "George Russell"
+      },
+      "RaceNumber": 63,
+      "Position": 2,
+      "Team": {
+        "Name": "Renault",
+        "UniqueName": "renault.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 93933,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 1,
+      "Position": 3,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94108,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Yuki Tsunoda"
+      },
+      "RaceNumber": 22,
+      "Position": 4,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94180,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 5,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94313,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 11,
+      "Position": 6,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94342,
+      "LapsCount": 3
+    },
+    {
+      "Driver": {
+        "Name": "Liam Lawson"
+      },
+      "RaceNumber": 80,
+      "Position": 7,
+      "Team": {
+        "Name": "Renault",
+        "UniqueName": "renault.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94382,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Lando Norris"
+      },
+      "RaceNumber": 4,
+      "Position": 8,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95387,
+      "LapsCount": 2
+    },
+    {
+      "Driver": {
+        "Name": "Oliver Bearman"
+      },
+      "RaceNumber": 21,
+      "Position": 9,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2028"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95779,
+      "LapsCount": 2
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Fernando Alonso"
+  },
+  "FastestLapTimeInt": 93266
+}
