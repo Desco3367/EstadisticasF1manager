@@ -1,0 +1,168 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "Mexico",
+  "TrackUniqueName": "mexico.2015",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Fernando Alonso"
+      },
+      "RaceNumber": 14,
+      "Position": 1,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76343,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Kimi Antonelli"
+      },
+      "RaceNumber": 12,
+      "Position": 2,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76452,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Alexander Albon"
+      },
+      "RaceNumber": 23,
+      "Position": 3,
+      "Team": {
+        "Name": "Sauber",
+        "UniqueName": "sauber.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76611,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 3,
+      "Position": 4,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76621,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 5,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76634,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 16,
+      "Position": 6,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76641,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 7,
+      "Team": {
+        "Name": "Porsche",
+        "UniqueName": "porsche.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76873,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Lewis Hamilton"
+      },
+      "RaceNumber": 44,
+      "Position": 8,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76984,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Gabriel Bortoleto"
+      },
+      "RaceNumber": 5,
+      "Position": 9,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2026"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77354,
+      "LapsCount": 4
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Fernando Alonso"
+  },
+  "FastestLapTimeInt": 76343
+}
