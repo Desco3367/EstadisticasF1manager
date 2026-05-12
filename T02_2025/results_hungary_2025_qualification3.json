@@ -1,0 +1,151 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "Hungary",
+  "TrackUniqueName": "hungaroring.2003",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 1,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76135,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Yuki Tsunoda"
+      },
+      "RaceNumber": 22,
+      "Position": 2,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76486,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Lewis Hamilton"
+      },
+      "RaceNumber": 44,
+      "Position": 3,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76552,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 4,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76631,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 33,
+      "Position": 5,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76790,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 6,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76892,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Liam Lawson"
+      },
+      "RaceNumber": 40,
+      "Position": 7,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76967,
+      "LapsCount": 4
+    },
+    {
+      "Driver": {
+        "Name": "Lando Norris"
+      },
+      "RaceNumber": 4,
+      "Position": 8,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77780,
+      "LapsCount": 5
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Oscar Piastri"
+  },
+  "FastestLapTimeInt": 76135
+}

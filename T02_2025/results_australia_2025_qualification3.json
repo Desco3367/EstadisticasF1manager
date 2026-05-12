@@ -1,0 +1,151 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "Australia",
+  "TrackUniqueName": "albert.park.2021",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Fernando Alonso"
+      },
+      "RaceNumber": 14,
+      "Position": 1,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76846,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 2,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77007,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 3,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77204,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Lando Norris"
+      },
+      "RaceNumber": 4,
+      "Position": 4,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77304,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Theo Pourchaire"
+      },
+      "RaceNumber": 98,
+      "Position": 5,
+      "Team": {
+        "Name": "Lotus",
+        "UniqueName": "lotus.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77559,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 1,
+      "Position": 6,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77740,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Oliver Bearman"
+      },
+      "RaceNumber": 87,
+      "Position": 7,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 77842,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Lewis Hamilton"
+      },
+      "RaceNumber": 44,
+      "Position": 8,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 78028,
+      "LapsCount": 6
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Fernando Alonso"
+  },
+  "FastestLapTimeInt": 76846
+}

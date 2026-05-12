@@ -1,0 +1,389 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q1",
+  "SessionPosition": 4,
+  "Date": null,
+  "TrackName": "Miami",
+  "TrackUniqueName": "miami.2022",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Fernando Alonso"
+      },
+      "RaceNumber": 14,
+      "Position": 1,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94539,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 2,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 94996,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 1,
+      "Position": 3,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95113,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Alexander Albon"
+      },
+      "RaceNumber": 23,
+      "Position": 4,
+      "Team": {
+        "Name": "Lotus",
+        "UniqueName": "lotus.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95176,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 5,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95374,
+      "LapsCount": 3
+    },
+    {
+      "Driver": {
+        "Name": "Lewis Hamilton"
+      },
+      "RaceNumber": 44,
+      "Position": 6,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95448,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Lando Norris"
+      },
+      "RaceNumber": 4,
+      "Position": 7,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95481,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Nico Hulkenberg"
+      },
+      "RaceNumber": 27,
+      "Position": 8,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95655,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Waerheall Holloway"
+      },
+      "RaceNumber": 97,
+      "Position": 9,
+      "Team": {
+        "Name": "Frontier Racing",
+        "UniqueName": "frontierracing.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95723,
+      "LapsCount": 0
+    },
+    {
+      "Driver": {
+        "Name": "Yuki Tsunoda"
+      },
+      "RaceNumber": 22,
+      "Position": 10,
+      "Team": {
+        "Name": "Mercedes",
+        "UniqueName": "mercedes.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95733,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Gabriel Bortoleto"
+      },
+      "RaceNumber": 5,
+      "Position": 11,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95788,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Josiane Faure"
+      },
+      "RaceNumber": 75,
+      "Position": 12,
+      "Team": {
+        "Name": "Frontier Racing",
+        "UniqueName": "frontierracing.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 95799,
+      "LapsCount": 1
+    },
+    {
+      "Driver": {
+        "Name": "Oliver Bearman"
+      },
+      "RaceNumber": 87,
+      "Position": 13,
+      "Team": {
+        "Name": "Williams",
+        "UniqueName": "williams.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96150,
+      "LapsCount": 3
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 33,
+      "Position": 14,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96280,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Kimi Antonelli"
+      },
+      "RaceNumber": 12,
+      "Position": 15,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96670,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 16,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 96844,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Liam Lawson"
+      },
+      "RaceNumber": 40,
+      "Position": 17,
+      "Team": {
+        "Name": "Ferrari",
+        "UniqueName": "ferrari.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 97289,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Esteban Ocon"
+      },
+      "RaceNumber": 31,
+      "Position": 18,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 98027,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Theo Pourchaire"
+      },
+      "RaceNumber": 98,
+      "Position": 19,
+      "Team": {
+        "Name": "Lotus",
+        "UniqueName": "lotus.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 98065,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "George Russell"
+      },
+      "RaceNumber": 63,
+      "Position": 20,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 98114,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Sergio Perez"
+      },
+      "RaceNumber": 11,
+      "Position": 21,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 98414,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Kevin Magnussen"
+      },
+      "RaceNumber": 20,
+      "Position": 22,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2025"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 98815,
+      "LapsCount": 5
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Fernando Alonso"
+  },
+  "FastestLapTimeInt": 94539
+}
