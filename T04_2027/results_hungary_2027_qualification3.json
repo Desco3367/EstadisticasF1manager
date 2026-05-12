@@ -1,0 +1,168 @@
+{
+  "SessionType": "Qualification",
+  "RaceType": "Regular",
+  "QualType": "Q3",
+  "SessionPosition": 3,
+  "Date": null,
+  "TrackName": "Hungary",
+  "TrackUniqueName": "hungaroring.2003",
+  "Drivers": [
+    {
+      "Driver": {
+        "Name": "Charles Leclerc"
+      },
+      "RaceNumber": 16,
+      "Position": 1,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 74338,
+      "LapsCount": 6
+    },
+    {
+      "Driver": {
+        "Name": "Max Verstappen"
+      },
+      "RaceNumber": 11,
+      "Position": 2,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 74359,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Fernando Alonso"
+      },
+      "RaceNumber": 14,
+      "Position": 3,
+      "Team": {
+        "Name": "Aston Martin",
+        "UniqueName": "astonmartin.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 74535,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Carlos Sainz"
+      },
+      "RaceNumber": 55,
+      "Position": 4,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 74729,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Oliver Bearman"
+      },
+      "RaceNumber": 87,
+      "Position": 5,
+      "Team": {
+        "Name": "Stake Sauber",
+        "UniqueName": "stakesauber.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 75377,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Pierre Gasly"
+      },
+      "RaceNumber": 10,
+      "Position": 6,
+      "Team": {
+        "Name": "Haas",
+        "UniqueName": "haas.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 75525,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Oscar Piastri"
+      },
+      "RaceNumber": 81,
+      "Position": 7,
+      "Team": {
+        "Name": "McLaren",
+        "UniqueName": "mclaren.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 75582,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Kimi Antonelli"
+      },
+      "RaceNumber": 12,
+      "Position": 8,
+      "Team": {
+        "Name": "Hugo Boss",
+        "UniqueName": "hugoboss.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76009,
+      "LapsCount": 5
+    },
+    {
+      "Driver": {
+        "Name": "Esteban Ocon"
+      },
+      "RaceNumber": 31,
+      "Position": 9,
+      "Team": {
+        "Name": "Red Bull",
+        "UniqueName": "redbull.2027"
+      },
+      "SeatType": "Primary",
+      "Status": "Ok",
+      "TimeInt": 0,
+      "GapInt": 0,
+      "FastestLapTimeInt": 76100,
+      "LapsCount": 5
+    }
+  ],
+  "FastestLapDriver": {
+    "Name": "Charles Leclerc"
+  },
+  "FastestLapTimeInt": 74338
+}
